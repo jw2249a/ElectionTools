@@ -13,3 +13,4 @@ python3 python/findAge.py -i "example.csv" -o "test.csv" -c 1 -d 11 -m 10 -y 201
 
 # run R script
 R -e 'source("R/ageRange.R")'
+rm output.txt
